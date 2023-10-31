@@ -4,6 +4,8 @@ An interactive dbms built to simulate a hotel's database requirements for staff 
 
 A command line interface that accesses a mysql database named 'HOTEL_QUOKKA'.
 
+In order to run the project, enter the 'newt' directory.
+
 - The contents of the Database HOTEL_QUOKKA are dumped and saved in newt.sql file with some test values in the tables. To start a mysql environment with that database run the command:
 ```sh
 mysql -u <username> -p 
