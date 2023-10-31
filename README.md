@@ -1,11 +1,9 @@
 # Hotel-DBMS
 
-an interactive dbms built to simulate a hotel's database requirements for staff and guests.
+An interactive dbms built to simulate a hotel's database requirements for staff and guests, built using pymysql.
 
-built using pymysql.
-
-# Hotel Quokka Database CLI
 A command line interface that accesses a mysql database named 'HOTEL_QUOKKA'.
+
 - The contents of the Database HOTEL_QUOKKA are dumped and saved in newt.sql file with some test values in the tables. To start a mysql environment with that database run the command:
 ```sh
 mysql -u <username> -p 
